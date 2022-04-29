@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+    <config id = "mqConfig">
+        <param name="queueName">xxxxxxxx</param>
+    </config>
+</configs>
